@@ -71,5 +71,13 @@ The GDPR applies to data processing by controllers in the EU, or outside the EU 
     - Enter a policy-related question
     - Upload a CSV file (optional)
     - Provide a custom URL (optional)
-    ```
+    
+## 🚀 Live Demo
+
+You can try the Policy Navigator Agent directly using demo below:
+
+👉 **[Launch Demo App](https://4fde543cce909bc4a1.gradio.live/)**
+
+
+
 
